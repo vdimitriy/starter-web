@@ -15,3 +15,5 @@ Purpose bla bla
 Deployment bla
 
 ## How to Contribure
+
+2020 Git.Training
