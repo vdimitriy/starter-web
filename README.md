@@ -16,4 +16,6 @@ Deployment bla
 
 ## How to Contribure
 
+How to contribute bla bla
+
 2020 Git.Training
