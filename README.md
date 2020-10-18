@@ -8,6 +8,10 @@ One more bla bla
 
 ## Purpose
 
+Purpose bla bla
+
 ## Deployment
+
+Deployment bla
 
 ## How to Contribure
